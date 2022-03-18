@@ -1,5 +1,9 @@
 #include <iostream>
 #include <math.h>
+
+//Nama :Reza Muchamad Hafis
+//NIM : 2100018227
+
 using namespace std;
 
 int tambah(int x,int y)
