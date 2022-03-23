@@ -1,0 +1,14 @@
+ALGORITMA PSEUDOCODE
+
+Algoritma {
+	program untuk menghitung penjumlah 3 buah bilangan
+}
+Deklarasi :{
+int a,b,c,jumlah
+}
+Deskripsi : {
+Start :
+Read a,b,c;
+jumlah <- a+b+c;
+write jumlah
+End:
