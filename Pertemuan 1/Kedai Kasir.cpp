@@ -4,8 +4,6 @@
 // 3.ANDRI PANGISTU - 2100018256
 
 #include<iostream>
-#include<fstream>
-
 using namespace std;
 
 int main (){
